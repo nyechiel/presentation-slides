@@ -1,3 +1,4 @@
 # Presentation Slides
-Slides from talks I give in a PDF format. Naming convention: YYYYMMDD - EVENT NAME - PRESENTATION TITLE.
+A repo to keep track of slides from talks I give. 
+Files are stored in PDF format and use the following naming convention: YYYYMMDD - EVENT NAME - PRESENTATION TITLE.
 
